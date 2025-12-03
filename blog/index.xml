@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semiconware Technologies Pvt. Ltd.</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://semiconware.com:1313/blog/</link>
     <description>Recent content on Semiconware Technologies Pvt. Ltd.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Feb 2024 06:25:08 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://semiconware.com:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World</title>
-      <link>http://localhost:1313/blog/hello-world/</link>
+      <link>https://semiconware.com:1313/blog/hello-world/</link>
       <pubDate>Mon, 19 Feb 2024 06:25:08 +0530</pubDate>
-      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <guid>https://semiconware.com:1313/blog/hello-world/</guid>
       <description>&lt;p&gt;Hello, World!&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Careers on Semiconware Technologies Pvt. Ltd.</title>
-    <link>http://localhost:1313/careers/</link>
+    <link>https://semiconware.com/careers/</link>
     <description>Recent content in Careers on Semiconware Technologies Pvt. Ltd.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Feb 2024 06:25:08 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/careers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://semiconware.com/careers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backend Developer (Go)</title>
-      <link>http://localhost:1313/careers/golang-backend-developer/</link>
+      <link>https://semiconware.com/careers/golang-backend-developer/</link>
       <pubDate>Mon, 19 Feb 2024 06:25:08 +0530</pubDate>
-      <guid>http://localhost:1313/careers/golang-backend-developer/</guid>
+      <guid>https://semiconware.com/careers/golang-backend-developer/</guid>
       <description>&lt;h3 id=&#34;about-us&#34;&gt;About Us:&lt;/h3&gt;&#xA;&lt;p&gt;At Semiconware, we are at the forefront of innovation, committed to developing cutting-edge solutions that make a real difference. We are a team of passionate, driven individuals who thrive in a dynamic and collaborative environment. Our work impacts millions of users worldwide, and we are looking for a talented Backend Developer with a strong background in Go to join our team.&lt;/p&gt;&#xA;&lt;h3 id=&#34;job-description&#34;&gt;Job Description:&lt;/h3&gt;&#xA;&lt;p&gt;As a Backend Developer at Semiconware, you will be part of a team responsible for the development and maintenance of our backend services. You will play a crucial role in creating high-performance, scalable, and reliable solutions to meet our business needs. With a focus on the Go programming language, you will work closely with our development team to design, implement, and deploy backend services that support our applications and platforms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Junior Developer</title>
-      <link>http://localhost:1313/careers/junior-developer/</link>
+      <link>https://semiconware.com/careers/junior-developer/</link>
       <pubDate>Mon, 19 Feb 2024 06:25:08 +0530</pubDate>
-      <guid>http://localhost:1313/careers/junior-developer/</guid>
+      <guid>https://semiconware.com/careers/junior-developer/</guid>
       <description>&lt;h3 id=&#34;about-us&#34;&gt;About Us:&lt;/h3&gt;&#xA;&lt;p&gt;Semiconware Technologies Pvt Ltd is a product development company that specializes in creating innovative solutions with focus on Automotive Industries. Our team is at the forefront of technology, leveraging the power of Golang, Rust, Angular, Postgres, and Git to build scalable, high-performance applications. We are committed to excellence and are looking for a passionate Junior Software Developer to join our dynamic team.&lt;/p&gt;&#xA;&lt;h3 id=&#34;job-description&#34;&gt;Job Description:&lt;/h3&gt;&#xA;&lt;p&gt;As a Junior Software Developer at Semiconware Technologies Pvt Ltd, you will have the opportunity to work on exciting projects alongside a team of experienced developers. You will contribute to the development, testing, and maintenance of our software products, ensuring they meet our high standards of quality and performance. This role is a fantastic opportunity for a motivated fresher who is eager to learn and grow in a supportive and innovative environment.&lt;/p&gt;</description>
     </item>
   </channel>
